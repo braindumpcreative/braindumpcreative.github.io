@@ -1,5 +1,5 @@
 {
-  "name": "www-braindumpcreative",
+  "name": "braindump-creative.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "http://braindump-creative.github.io/www-braindumpcreative"
+  "homepage": "https://braindump-creative.github.io"
 }
