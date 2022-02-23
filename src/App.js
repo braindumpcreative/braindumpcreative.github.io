@@ -9,6 +9,7 @@ function App() {
         <p>
           <div style={{ fontSize: '4rem' }}>BRAINDUMP</div>
           <div>CREATIVE</div>
+          <div>COMING SOON!</div>
         </p>
       </header>
     </div>
